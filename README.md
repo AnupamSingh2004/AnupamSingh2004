@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Android<br>⚡ Fun fact : I love to Explore new Things
+🌱 I’m currently learning DevOps<br>⚡ Fun fact : I love to Explore new Things
 
 
 ## 🌐 Socials:
