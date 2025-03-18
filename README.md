@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Full Stack Skills<br>👯 I’m looking to collaborate on Web Development and Devops<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact - Curios to Learn and Try New things
+🔭 I’m currently working on my Full Stack Skills<br>👯 I’m looking to collaborate on Web Development and Devops<br>🌱 I’m currently learning DevOps<br>⚡ Fun fact - Curious to Learn and Try New things
 
 
 ## 🌐 Socials:
