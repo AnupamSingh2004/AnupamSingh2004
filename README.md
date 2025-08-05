@@ -105,10 +105,18 @@ const anupam = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamSingh2004&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-### 🐍 Watch the Snake eat my contributions!
+## 🐍 Watch the Snake eat my contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7F39FB&height=40&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ---
