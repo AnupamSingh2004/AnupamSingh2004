@@ -16,8 +16,6 @@
 
 ```typescript
 const anupam = {
-    location: "Jabalpur, India 🇮🇳",
-    education: "B.Tech CSE @ IIIT Jabalpur",
     currentlyLearning: ["DevOps", "Cloud Architecture", "System Design"],
     lookingForOpportunities: ["Full Stack Development", "DevOps Engineering"],
     funFact: "I solve problems faster than I solve Rubik's cubes! 🧩",
