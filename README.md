@@ -24,7 +24,7 @@ const anupam = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnupamSingh2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AnupamSingh2004&theme=dark&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=FF6B6B" />
 </div>
 
 ---
@@ -34,6 +34,7 @@ const anupam = {
 <div align="center">
 
 ### 💻 Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -55,6 +56,7 @@ const anupam = {
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -65,6 +67,7 @@ const anupam = {
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🗄️ Databases & Monitoring
+
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -75,6 +78,7 @@ const anupam = {
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🛠️ Tools & Testing
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -91,17 +95,23 @@ const anupam = {
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnupamSingh2004&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AnupamSingh2004&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamSingh2004&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnupamSingh2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamSingh2004&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&layout=compact&count_private=true" alt="Top Languages" />
+</div>
+
+
+---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamSingh2004&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamSingh2004&theme=tokyo-night&hide_border=true&area=true&custom_title=Anupam's%20Contribution%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
+
+---
 
 ## 🐍 Watch the Snake eat my contributions!
 
@@ -111,10 +121,6 @@ const anupam = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AnupamSingh2004/AnupamSingh2004/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7F39FB&height=40&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
 ---
@@ -133,6 +139,7 @@ graph LR
 <div align="center">
 
 ### 🌱 Currently Learning
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=flat-square&logo=kubernetes)
 ![System Design](https://img.shields.io/badge/System_Design-Scaling-FF6B6B?style=flat-square&logo=buffer)
 ![Microservices](https://img.shields.io/badge/Microservices-Architecture-4FC08D?style=flat-square&logo=microgenetics)
@@ -141,8 +148,25 @@ graph LR
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anupam.singh19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-singh-78911224a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanupam2004@gmail.com)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnupamSingh2004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🌐 Socials
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/anupam.singh19) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/anupam-singh-78911224a) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sanupam2004@gmail.com)
+
+</div>
+
+---
 
 ## 🤝 Let's Connect!
 
@@ -163,4 +187,8 @@ graph LR
 
 **⭐ Star my repositories if you find them interesting!**
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7F39FB&height=40&section=header&text=&fontSize=0" width="100%"/>
 </div>
