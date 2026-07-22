@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anupamsingh2004.github.io/Anupam-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anupam.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anupam-singh-78911224a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanupam2004@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanupam2004/)
