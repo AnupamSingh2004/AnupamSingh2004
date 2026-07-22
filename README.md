@@ -100,23 +100,6 @@ const anupam = {
 
 ---
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🎯 Goal | 📊 Progress | 🏷️ Status |
-|---------|-------------|----------|
-| **Kubernetes Mastery** | ![](https://geps.dev/progress/75?dangerColor=ff6b6b&warningColor=ffd93d&successColor=00d4ff) | `Advanced` |
-| **System Design** | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=ffd93d&successColor=7f39fb) | `In Progress` |
-| **Microservices Architecture** | ![](https://geps.dev/progress/70?dangerColor=ff6b6b&warningColor=ffd93d&successColor=4fc08d) | `Building` |
-| **AI/ML Integration** | ![](https://geps.dev/progress/40?dangerColor=ff6b6b&warningColor=ffd93d&successColor=ffd93d) | `Exploring` |
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
