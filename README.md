@@ -84,19 +84,22 @@ const anupam = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnupamSingh2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7f39fb&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=AnupamSingh2004&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=7f39fb&dates=888888" alt="GitHub Streak"/>
+    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=AnupamSingh2004&hide_border=true&background=0D1117&border=0D1117&stroke=0D1117&ring=00d9ff&fire=7b2ff7&currStreakNum=ffffff&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=6b7280" alt="GitHub Streak" />
+ <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=AnupamSingh2004&show_icons=true&count_private=true&hide_border=true&title_color=00d9ff&icon_color=7b2ff7&text_color=c9d1d9&bg_color=0d1117&v=3" />
+
 </div>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamSingh2004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-</div>
-
+ <img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnupamSingh2004&layout=donut&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=21600&v=2" alt="Top Languages Donut" />
+&nbsp;&nbsp;
+<img width="38%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnupamSingh2004&layout=compact&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&langs_count=10&cache_seconds=21600&v=2" alt="Top Languages Compact" />****
 <br/>
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamSingh2004&custom_title=📈%20Contribution%20Graph&hide_border=true&bg_color=0d1117&color=00d4ff&line=7f39fb&point=ff6b6b&area=true&area_color=00d4ff" alt="Contribution Graph"/>
+    
 </div>
+
 
 ---
 
